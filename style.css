@@ -4,7 +4,7 @@ background: black;
 }
 
 header {
-border-bottom: solid 2px rgba(243, 177, 218, 0.884);
+border-bottom: solid 2px rgba(85, 6, 55, 0.884);
 
 padding: 20px;
 font-size: 32px;
@@ -12,7 +12,7 @@ color: rgb(255, 255, 255);
 }
 
 .chamada {
-background: rgb(252, 68, 154);
+background: rgb(126, 118, 15);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
